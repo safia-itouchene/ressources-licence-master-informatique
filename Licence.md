@@ -3,8 +3,8 @@
 ## 📙 L1 MI
 
 - **L1 MI USTHB Nº1**: [Link to Drive](https://drive.google.com/drive/u/0/folders/1mFQRm4zPuskuYqGJtybwxHDzpqbQCJsc)
-- **L1 MI USTHB Nº2**: [Link to Drive]([https://drive.google.com/folderview?id=1UHHxIAahyjUof_iFJsFfBuR7TWPgH0WD](https://drive.google.com/drive/folders/1rePkFljglXNKdabFTUp2w2w8Kk4nLnzY))
-- - **L1 MI USTHB Nº3**: [Link to Drive](https://drive.google.com/drive/folders/1YbuHRbJJgb47dU0KjA0uh8nsl2aH72kr)
+- **L1 MI USTHB Nº2**: [Link to Drive](https://drive.google.com/drive/folders/1rePkFljglXNKdabFTUp2w2w8Kk4nLnzY)
+- **L1 MI USTHB Nº3**: [Link to Drive](https://drive.google.com/drive/folders/1YbuHRbJJgb47dU0KjA0uh8nsl2aH72kr)
 - **L1 MI_BOUMERDES**: [Link to Drive](https://drive.google.com/drive/folders/1yWB5XfAMSLcEeCY4Y5LEynO2YDqOBosc)
 ---
 
