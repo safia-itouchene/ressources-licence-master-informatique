@@ -1,5 +1,5 @@
-## 📚 Resources for Computer Science Students at USTHB 
-[🔗 licence](https://github.com/safia-itouchene/ressources-licence-master-informatique/blob/main/Master.md) and 
+# 📚 Resources for Computer Science Students at USTHB 
+[🔗 Licence](https://github.com/safia-itouchene/ressources-licence-master-informatique/blob/main/Master.md) and 
 [🔗 Master's](https://github.com/safia-itouchene/ressources-licence-master-informatique/blob/main/Licence.md)
 
 📂 This repository contains resources for students, including theses and documents from previous years.
