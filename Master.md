@@ -49,7 +49,6 @@
 - **2020-2021**: [Link to Drive](https://drive.google.com/drive/mobile/folders/1eCTrKp-MYXwBNffupoyqYS9XmZwNaSvP)
 
 ### Other Years
-- **Année non spécifiée**: [SII GitHub](https://sii-usthb.github.io/) | [M1_SII_S1 GitHub](https://github.com/naila-houacine/M1_SII_S1)
 - **2017**: [Link to Drive](https://drive.google.com/drive/folders/13ynAiZbknEcRWxhde2ZEOzyz7dctf0lK)
 - **2018**: [Link to Drive](https://drive.google.com/drive/folders/1sL9YpMyC7RfYnJvqpR1MaRdQpx_Bb4pS)
 - **2019**: [Link to Drive](https://drive.google.com/drive/folders/1ujP8xBxeBgnJ-t-_1xxgcApx6WBxF1k0)
@@ -69,8 +68,6 @@
 ## 📖 SSI
 ### M1-SSI
 - **2021-2022**: [Link to Drive](https://drive.google.com/drive/folders/1i5M33PfXk0iD8xIUU6qX54OlSN6n3sZR?fbclid=IwAR0JcQAGtSwbZTy8jZ8BsNIZYgQRNePvBGBJI5IXTlFBAorrsePI0XsRBK4)
-- **Other Useful Resources**: [GitHub Gist](https://gist.github.com/cr105ph1nx/33c53eb0e3bd539bf4d904d8b019f196)
-
 ---
 
 ## 🌐 Other
