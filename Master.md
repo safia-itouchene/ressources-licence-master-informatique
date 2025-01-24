@@ -1,4 +1,4 @@
-# 🗂️ Master Resources
+# 💻 Master Resources
 ---
 
 ## 📒 IL
