@@ -1,8 +1,8 @@
 
 
 ## 💻 Resources for Computer Science Students:
-- [Licence](https://github.com/safia-itouchene/ressources-licence-master-informatique/blob/main/Master.md)   and 
-   [Master](https://github.com/safia-itouchene/ressources-licence-master-informatique/blob/main/Licence.md)
+- [Licence](https://github.com/safia-itouchene/ressources-licence-master-informatique/blob/main/Licence.md)   and 
+   [Master](https://github.com/safia-itouchene/ressources-licence-master-informatique/blob/main/Master.md)
 
 ## 🎓 Theses from Previous Years (USTHB Undergraduate and Master's):
 - [View Theses](https://drive.google.com/drive/folders/1dVkxTOSLtLpa4LXgT6C_Faowiz8QZ0Sl)
