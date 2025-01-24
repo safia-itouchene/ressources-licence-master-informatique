@@ -30,7 +30,7 @@
 - **2020-2021 SECTION A**:  [Link to Drive]([https://drive.google.com/drive/folders/12OJ2B_tQOuQvncsLmMHq02hJywz247vL](https://drive.google.com/drive/folders/1IsupAVa1wrV9-J8ZEoCrIK7eu2dJz2TL?fbclid=IwAR2PQWX_1k6curLDSieHFnn2wRpEuSC8s4zcaxVGbkg0LoM8ydnNh7p45t0))
 -  **2020-2021 SECTION B**:  [Link to Drive](https://drive.google.com/drive/folders/1GTlibQ6JnKkpDoMq5BXXXMyEuBDLc7ct?fbclid=IwAR0LWvvRxTZ9tw5IUw_JT-wu4tG7PujWcGydbPFiU9apy7Tk0obNDPOzXlc)
 -  **2020-2021 SECTION C**:  [Link to Drive](https://drive.google.com/drive/folders/1-1N1n6QoSa9Vk_ecf7BcLNtWev2PKEk7)
--  **EXAMS**:  [Link to Drive]((https://drive.google.com/drive/folders/1V6q3BEVMBJA2JM0jpwc9hfkap_drn_u5?fbclid=IwAR0hwTAwwE-Q8fZWhMpaYjQHGfOPRqrB2EG2q_FawaYRmUubxidkvvsedYA))
+-  **EXAMS**:  [Link to Drive](https://drive.google.com/drive/folders/1V6q3BEVMBJA2JM0jpwc9hfkap_drn_u5?fbclid=IwAR0hwTAwwE-Q8fZWhMpaYjQHGfOPRqrB2EG2q_FawaYRmUubxidkvvsedYA)
 
 # Another Drives
 - [Drive 1](https://drive.google.com/drive/mobile/folders/17MKKSV3uBnyILv21sJVXku7KYeT8L3gO)
