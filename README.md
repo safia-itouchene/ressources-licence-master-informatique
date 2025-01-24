@@ -1,6 +1,6 @@
-# 📚 Resources for Computer Science Students at USTHB (
-[🔗 licence](https://drive.google.com/drive/folders/1K2h3UQn2APPBfRzJRIgffjDPDvH19Wh0) and 
-[🔗 Master's](https://drive.google.com/drive/folders/1K2h3UQn2APPBfRzJRIgffjDPDvH19Wh0))
+## 📚 Resources for Computer Science Students at USTHB 
+[🔗 licence](https://github.com/safia-itouchene/ressources-licence-master-informatique/blob/main/Master.md) and 
+[🔗 Master's](https://github.com/safia-itouchene/ressources-licence-master-informatique/blob/main/Licence.md)
 
 📂 This repository contains resources for students, including theses and documents from previous years.
 
