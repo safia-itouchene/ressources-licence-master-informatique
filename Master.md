@@ -69,8 +69,3 @@
 ### M1-SSI
 - **2021-2022**: [Link to Drive](https://drive.google.com/drive/folders/1i5M33PfXk0iD8xIUU6qX54OlSN6n3sZR?fbclid=IwAR0JcQAGtSwbZTy8jZ8BsNIZYgQRNePvBGBJI5IXTlFBAorrsePI0XsRBK4)
 ---
-
-## 🌐 Other
-- **Direct Downloads (2019)**:  
-  - [S1 Resources](https://www.mediafire.com/file/zzsm8d53gtnkfmd/M1-SII-S1_2018-19.zip/file)
-  - [S2 Resources](https://www.mediafire.com/file/78ucmrvxuqulbrd/M1-SII-S2_2018-19.zip/file)
