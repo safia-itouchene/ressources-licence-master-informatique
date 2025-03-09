@@ -4,7 +4,7 @@
 - [Licence](https://github.com/safia-itouchene/ressources-licence-master-informatique/blob/main/Licence.md)   and 
    [Master](https://github.com/safia-itouchene/ressources-licence-master-informatique/blob/main/Master.md)
 
-### 🎓 Theses from Previous Years (USTHB Undergraduate and Master's):
+### 🎓 Theses from Previous Years (USTHB Licence and Master's):
 - [View Theses](https://drive.google.com/drive/folders/1dVkxTOSLtLpa4LXgT6C_Faowiz8QZ0Sl)
 
 ### 🎓 Theses from Previous Years (Other Universities Licence and Master's):
